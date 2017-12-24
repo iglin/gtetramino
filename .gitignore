@@ -28,6 +28,7 @@ gradle/
 # ItelliJ IDEA
 .idea
 target
+out
 
 # Logs
 results
